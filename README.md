@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing **307,973 road accident records** from the UK (2021–2022), built to surface casualty trends by severity, vehicle type, location, and road/weather conditions for data-driven road safety insight.
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ## 📌 Key Insights
 
