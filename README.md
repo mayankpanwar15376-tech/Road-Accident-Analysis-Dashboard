@@ -27,7 +27,7 @@ An interactive Power BI dashboard analyzing **307,973 road accident records** fr
 |---|---|
 | `Power_bi_Accident_report.pbix` | Power BI Desktop project file (open in Power BI Desktop) |
 | `Power_bi_Accident_report.pdf` | Static export of the dashboard |
-| `screenshots/dashboard-overview.png` | Dashboard preview image (shown above) |
+| `dashboard-overview.png` | Dashboard preview image (shown above) |
 
 
 ## ▶️ How to View
