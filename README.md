@@ -29,11 +29,6 @@ An interactive Power BI dashboard analyzing **307,973 road accident records** fr
 | `Power_bi_Accident_report.pdf` | Static export of the dashboard |
 | `screenshots/dashboard-overview.png` | Dashboard preview image (shown above) |
 
-## 📊 Dataset
-
-This project uses a UK road accident dataset (2021–2022) containing ~308K accident records with fields including accident severity, date/time, location (lat/long), road type, weather conditions, light conditions, and vehicle type.
-
-> The raw dataset file is not included in this repository to keep it lightweight. If you'd like the source data, see the [Kaggle UK Road Accident datasets](https://www.kaggle.com/datasets?search=UK+road+accident) or reach out — happy to share.
 
 ## ▶️ How to View
 
