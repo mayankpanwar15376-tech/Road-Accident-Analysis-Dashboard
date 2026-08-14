@@ -39,4 +39,4 @@ An interactive Power BI dashboard analyzing **307,973 road accident records** fr
 ---
 
 **Author:** Mayank Panwar
-📧 mayankpanwar15376@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/mayank-panwar) | 💻 [GitHub](https://github.com/mayankpanwar15376-tech)
+📧 mayankpanwar15376@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/mayankpanwar15376/) | 💻 [GitHub](https://github.com/mayankpanwar15376-tech)
